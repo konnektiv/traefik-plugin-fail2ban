@@ -1,8 +1,8 @@
-displayName: JUIT GmbH / Fail2Ban
+displayName: Konnektiv / Fail2Ban
 type: middleware
 #iconPath: .assets/icon.png
 
-import: github.com/juitde/traefik-plugin-fail2ban
+import: github.com/konnektiv/traefik-plugin-fail2ban
 
 summary: 'Block or allow IPs depending on various conditions (requires Traefik >= 2.10.0)'
 
